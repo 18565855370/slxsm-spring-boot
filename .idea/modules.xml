@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-bean/core-bean.iml" filepath="$PROJECT_DIR$/core-bean/core-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/initializer/initializer.iml" filepath="$PROJECT_DIR$/initializer/initializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-1/spring-boot-1.iml" filepath="$PROJECT_DIR$/spring-boot-1/spring-boot-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-10/spring-boot-10.iml" filepath="$PROJECT_DIR$/spring-boot-10/spring-boot-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-11/spring-boot-11.iml" filepath="$PROJECT_DIR$/spring-boot-11/spring-boot-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-12/spring-boot-12.iml" filepath="$PROJECT_DIR$/spring-boot-12/spring-boot-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-13/spring-boot-13.iml" filepath="$PROJECT_DIR$/spring-boot-13/spring-boot-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-15/spring-boot-15.iml" filepath="$PROJECT_DIR$/spring-boot-15/spring-boot-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-16/spring-boot-16.iml" filepath="$PROJECT_DIR$/spring-boot-16/spring-boot-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-2/spring-boot-2.iml" filepath="$PROJECT_DIR$/spring-boot-2/spring-boot-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-3/spring-boot-3.iml" filepath="$PROJECT_DIR$/spring-boot-3/spring-boot-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-4/spring-boot-4.iml" filepath="$PROJECT_DIR$/spring-boot-4/spring-boot-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-5/spring-boot-5.iml" filepath="$PROJECT_DIR$/spring-boot-5/spring-boot-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-6/spring-boot-6.iml" filepath="$PROJECT_DIR$/spring-boot-6/spring-boot-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-7/spring-boot-7.iml" filepath="$PROJECT_DIR$/spring-boot-7/spring-boot-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-8/spring-boot-8.iml" filepath="$PROJECT_DIR$/spring-boot-8/spring-boot-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-9/spring-boot-9.iml" filepath="$PROJECT_DIR$/spring-boot-9/spring-boot-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-redis/spring-boot-starter-redis.iml" filepath="$PROJECT_DIR$/spring-boot-starter-redis/spring-boot-starter-redis.iml" />
+    </modules>
+  </component>
+</project>
